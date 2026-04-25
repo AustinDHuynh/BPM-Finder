@@ -8,7 +8,7 @@ This a basic CML application that uses Soundchart's database of songs to retriev
 You will need to generate your own API Key and identifier from their website [here](https://developers.soundcharts.com/documentation/getting-started), 
 which gives 1000 free API calls, which should be enough for personal use. 
 
-A sandbox key has already been set up for your convience - however the sandbox is extremely limited the songs it includes.
+A sandbox key has already been set up for your convenience - however the sandbox is extremely limited the songs it includes.
 
 If you want to read more about the sandbox, click [here](https://developers.soundcharts.com/documentation/sandbox-data).
 
