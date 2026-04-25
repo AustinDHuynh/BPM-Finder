@@ -12,13 +12,6 @@ A sandbox key has already been set up for your convience - however the sandbox i
 
 If you want to read more about the sandbox, click [here](https://developers.soundcharts.com/documentation/sandbox-data).
 
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 [JDK 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) or higher.
 
